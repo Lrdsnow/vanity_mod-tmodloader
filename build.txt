@@ -1,0 +1,3 @@
+displayName = The Vanity Swords!
+author = Lrdsnow
+version = 0.1
